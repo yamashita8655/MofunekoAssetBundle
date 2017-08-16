@@ -8,10 +8,10 @@ gacharesultscene,4,c05a3ba8b305e7b3af9a6fad81b00892
 gachascene,13,0ac7cb8090cfbd31f5d713dce64785f3
 homescene,6,ee9cfca3ba5c2ea611cfe3376f248306
 loadingscene,2,0f079e47697bf6dd45d8e0891c5c5445
-luamain,46,30494aa7b05386c40ac77b28ec40aaaa
+luamain,47,44485a8c87b1dc0542477c5d2670f8f9
 luascript,144,67d867eb051b556cd1574c1761c3824a
 optionscene,2,1cdef497ffc59a155eef1c3f34c2348a
 questscene,7,3d22bdbd1252c71bc4131824e6ea10e8
 sound,0,daa479221ce4a7cd7ae1c7634d2ae0f2
 titlescene,4,62b01fc7f62ee29846d5b3b8610e7530
-version,200,c7c369844be67b4cd8363d03f5ff6ce6
+version,201,49ce6719a64d70b0c9e0ec2cebd81753
